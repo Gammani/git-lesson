@@ -8,4 +8,8 @@
 8. git push origin master
 9. git reset - удаляет из stage
 10. git reset --hard - возвращает все изменения и очищает git status
-11. git diff / git diff [files] - показывает изменения
+11. git diff / git diff [files] - показывает изменения 
+
+Ветки \
+1. git branch [name] - создать ветку
+2. git checkout [name] - переключиться на ветку
