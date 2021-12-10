@@ -15,3 +15,7 @@
 2. git checkout [name] - переключиться на ветку
 3. pull [rep_link] [branch_name]
 4. git branch -d [branch_name] - удалить ветку
+
+Слияние веток
+1. git checkout master
+2. git merge [name_branch_which_in_the_current]
