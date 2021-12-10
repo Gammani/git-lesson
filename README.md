@@ -10,6 +10,8 @@
 10. git reset --hard - возвращает все изменения и очищает git status
 11. git diff / git diff [files] - показывает изменения 
 
-Ветки \
+Ветки 
 1. git branch [name] - создать ветку
 2. git checkout [name] - переключиться на ветку
+3. pull [rep_link] [branch_name]
+4. git branch -d [branch_name] - удалить ветку
